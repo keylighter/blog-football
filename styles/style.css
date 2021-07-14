@@ -8,6 +8,42 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+/* <!-- Header Banner --> */
+
+.head-section{
+    background-color: #2D25A0;
+    height: 677px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.intro-note h1{
+    font-size: 64px;
+    color: #FFFFFF;
+}
+
+.intro-note >a{
+    
+    background-color: #E02C6D;
+  color: white;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.intro-note >a:hover{
+    border: 2px solid #ee1262;
+    background-color: #ee1262 ;
+}
+
+.head-img{
+    height: 438px;
+    width: 556px;
+}
+
 
 /* Top player blog */
 
