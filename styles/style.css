@@ -172,6 +172,8 @@ footer img{
         align-items: center;
         width: 600px;
         margin-bottom: 50px;
+        border: 100%;
+        
     }
 
     .head-section{
@@ -213,6 +215,7 @@ footer img{
         margin: auto;
         display: flex;
         flex-direction: column;
+        margin-bottom: 50px;
         
     }
 
@@ -224,8 +227,12 @@ footer img{
         
     } 
     footer{
+       
         border: 2px solid red;
         margin: auto;
     }
 
+    .footer img{
+        width: 70%;
+    }
    
